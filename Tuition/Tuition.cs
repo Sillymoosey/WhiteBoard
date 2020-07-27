@@ -2,7 +2,7 @@
 
 namespace Tuition
 {
-    class Program
+    class Tuition
     {
         public static void Interest()
         {

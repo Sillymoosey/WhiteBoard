@@ -2,7 +2,7 @@
 
 namespace compare
 {
-    class Program
+    class Compare
     {
 		//pass two intigers
 		//return a string that compares the two numbers

@@ -2,7 +2,7 @@
 
 namespace Reverse_String
 {
-    class Program
+    public class ReverseString
     {
 		// input string cat
 		// return string tac

@@ -2,7 +2,7 @@
 
 namespace ConvertingToInches
 {
-    class Program
+    class Convert
     {
         public static int Converting(int feet)
         {

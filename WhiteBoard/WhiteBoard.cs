@@ -2,7 +2,7 @@
 
 namespace WhiteBoard
 {
-    class Program
+    class WhiteBoard
     {
 		static void Main(string[] args)
         {
