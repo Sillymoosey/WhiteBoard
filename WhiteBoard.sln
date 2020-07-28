@@ -13,7 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuition", "Tuition\Tuition.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertingToInches", "ConvertingToInches\ConvertingToInches.csproj", "{1D1B3DD4-45AC-488F-A976-856B2B211BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{35DB8565-75FB-44B3-A844-0CB4E07A3C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{35DB8565-75FB-44B3-A844-0CB4E07A3C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFunctiont", "TimeFunctiont\TimeFunctiont.csproj", "{8092902A-6538-458A-A309-65CDEC75AF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFunction", "TimeFunction\TimeFunction.csproj", "{3EDC7E4A-27FA-4C95-AB3A-4A022629A3B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{35DB8565-75FB-44B3-A844-0CB4E07A3C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35DB8565-75FB-44B3-A844-0CB4E07A3C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35DB8565-75FB-44B3-A844-0CB4E07A3C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8092902A-6538-458A-A309-65CDEC75AF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8092902A-6538-458A-A309-65CDEC75AF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8092902A-6538-458A-A309-65CDEC75AF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8092902A-6538-458A-A309-65CDEC75AF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EDC7E4A-27FA-4C95-AB3A-4A022629A3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDC7E4A-27FA-4C95-AB3A-4A022629A3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDC7E4A-27FA-4C95-AB3A-4A022629A3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDC7E4A-27FA-4C95-AB3A-4A022629A3B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
