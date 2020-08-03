@@ -4,17 +4,9 @@ namespace TimeFunction
 {
     public class Program
     {
-        public static int timeBetween(int hrs1, int min1, int hrs2, int min2)
+        public static int timeBetween(DateTime Time1, DateTime Time2)
         {
-            int totalMinutes = 0;
-            min1 += hrs1 * 60;
-            min2 += hrs2 * 60;
-            totalMinutes = min1 - min2;
-            if (totalMinutes < 0)
-            {
-                totalMinutes = totalMinutes * -1;
-            }
-
+            int totalMinutes = DateTime.Compare(Time1, Time2);
             return totalMinutes;
         }
         static void Main(string[] args)
