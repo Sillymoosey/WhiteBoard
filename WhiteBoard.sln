@@ -29,9 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CirclesTest", "CirclesTest\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimNumbers", "PrimNumbers\PrimNumbers.csproj", "{AEE3B0CE-CB1D-45CA-B612-8FA94889FE5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntArray", "IntArray\IntArray.csproj", "{96B3CAD0-A43C-405F-89C5-263323B89F9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntArray", "IntArray\IntArray.csproj", "{96B3CAD0-A43C-405F-89C5-263323B89F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntArrayTest", "ArrayDistinct\IntArrayTest.csproj", "{2A62B53E-4734-4F72-B545-61A7CE7DDEDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntArrayTest", "ArrayDistinct\IntArrayTest.csproj", "{2A62B53E-4734-4F72-B545-61A7CE7DDEDF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertTheTraffic", "..\ConvertTheTraffic\ConvertTheTraffic\ConvertTheTraffic.csproj", "{F21F1BBA-CEEA-4424-BD2C-15AA7B2FBC81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertTrafficTest", "..\ConvertTheTraffic\ConvertTrafficTest\ConvertTrafficTest.csproj", "{BC8156C7-E3E3-4E07-B5C6-B9A34B94C931}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{2A62B53E-4734-4F72-B545-61A7CE7DDEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A62B53E-4734-4F72-B545-61A7CE7DDEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A62B53E-4734-4F72-B545-61A7CE7DDEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21F1BBA-CEEA-4424-BD2C-15AA7B2FBC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21F1BBA-CEEA-4424-BD2C-15AA7B2FBC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21F1BBA-CEEA-4424-BD2C-15AA7B2FBC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21F1BBA-CEEA-4424-BD2C-15AA7B2FBC81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8156C7-E3E3-4E07-B5C6-B9A34B94C931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8156C7-E3E3-4E07-B5C6-B9A34B94C931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8156C7-E3E3-4E07-B5C6-B9A34B94C931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8156C7-E3E3-4E07-B5C6-B9A34B94C931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
