@@ -6,17 +6,24 @@ namespace PrimNumbers
     {
         public static bool IsPrimeNumber(int p)
         {
+            if(p % 2 == 0)
+            {
+                return false;
+            }
             for (int i = 2; i < p; i++)
             {
-                if()
-                
+                if(p % i == 0)
+                {
+                    return false;
+                }
             }
+            return true;
 
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(IsPrimeNumber(12));
-            Console.WriteLine(IsPrimeNumber(7));
+            Console.WriteLine(IsPrimeNumber(4));
+            Console.WriteLine(IsPrimeNumber(37));
         }
     }
 }
